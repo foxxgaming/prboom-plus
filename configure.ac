@@ -71,7 +71,7 @@ AC_TYPE_UID_T
 AC_TYPE_SIZE_T
 AC_DECL_SYS_SIGLIST
 AC_HEADER_SYS_WAIT
-AC_CHECK_HEADERS(unistd.h asm/byteorder.h sched.h)
+AC_CHECK_HEADERS(unistd.h asm/byteorder.h sched.h linux/kd.h)
 
 dnl --- Library functions
 AC_CHECK_FUNC(stricmp,,AC_DEFINE(stricmp,strcasecmp,[Define to strcasecmp, if we have it]))
