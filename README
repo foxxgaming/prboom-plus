@@ -1,6 +1,9 @@
 PrBoom 2.5.1.5
 Unofficial Mac Port
 (Tested on MacOS 10.15 Catalina)
+
+The latest version can be found here: https://github.com/foxxgaming/prboom-plus/releases/tag/2.5.1.4
+
 You'll need a few things before you can get gibbing. 
 
 1. Install brew here: https://brew.sh/ (if you already have it skip this step)
