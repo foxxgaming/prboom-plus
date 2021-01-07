@@ -1,4 +1,14 @@
-PrBoom 2.5.1.5
+#PrBoom 2.5.1.5
+Unofficial Mac Port
+(Tested on MacOS 10.15 Catalina)
+You'll need a few things before you can get gibbing. 
+1. Install brew [here](https://brew.sh/) (if you already have it skip this step)
+2. Paste this rather long command to install the game's dependencies. ``brew install sdl2_image; brew install sdl2; brew install sdl2_net; brew install sdl2_mixer; brew install fluid-synth; brew install portmidi; brew install libvorbis; ``
+3. Create a folder in your home directory called ".prboom-plus"
+4. Put PrBoom-Plus.wad and your doom wads into that folder
+5. Kill some demons.
+
+
 
 PrBoom is a version of the classic 3D shoot'em'up game Doom, originally
 written by id Software.
